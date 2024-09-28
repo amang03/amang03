@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aman Gupta
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently learning web development
+- 👀 3* at CodeChef (max : 1729), Leetcode : max- 1709 with 300 + solved problems and around 500 problems solved across all coding plateforms
+- 🌱 I’m a Web developer
 - 💞️ I’m looking to collaborate on different web development projects
 - 😄 Pronouns: He/Him
 
